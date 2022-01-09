@@ -1,1 +1,1 @@
-# CricketScoreCard-analysis
+# GooglePlayStoreApp-analysis
